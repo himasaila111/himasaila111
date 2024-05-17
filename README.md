@@ -1,16 +1,39 @@
-### Hi there 👋
+<h1 align="center">Hi there! I'm Himasaila Gonugunta 👋</h1>
 
-<!--
-**himasaila111/himasaila111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<blockquote style="font-size: 24px;">
+  <p align="center">
+    <strong>Expert MERN Stack Developer Specializing in Full-Stack Web Applications</strong>
+  </p>
+</blockquote>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate and enthusiastic software developer with a drive to create real-world projects that make a positive impact. I believe in the power of innovation and technology to shape a better future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Expertise
+
+- Programming Languages: C, Python, java, javascript, typescript
+- Web development: HTML, CSS, React, redux, tailwind css, Material UI
+- Backend development: npm, node JS, Express JS, Axios, REST and SOAP API,  postman, YAML, Swagger
+- Database: MongoDB
+- Soft Skills: Excellent communication, collaboration, and public speaking
+
+### 💡 Interests
+
+I'm deeply interested in:
+
+- Building real-life projects.
+- Exploring the field of AI and experimenting with different datasets and models.
+
+### Let's Connect
+
+<p align="center">
+  You can find me on:
+</p>
+
+<p align="center">
+  <a href="www.linkedin.com/in/himasaila-gonugunta">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" />
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/himasail_a">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" />
+  </a>
+</p>
