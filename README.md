@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate and enthusiastic software develop
 
 - Programming Languages: C, Python, java, javascript, typescript
 - Web development: HTML, CSS, React, redux, tailwind css, Material UI
-- Backend development: npm, node JS, Express JS, Axios, REST and SOAP API,  postman, YAML, Swagger
-- Database: MongoDB
+- Backend development: npm, node JS, Express JS, Axios, REST and SOAP API,  postman, YAML, Swagger, Java, SpringBoot, MicroServives
+- Database: MySQL, MongoDB
 - Soft Skills: Excellent communication, collaboration, and public speaking
 
 ### 💡 Interests
